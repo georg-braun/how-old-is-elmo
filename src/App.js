@@ -18,7 +18,7 @@ function App() {
     <div className="App">
     <h1>🐶</h1>
      <h1>{ageInWeeks} Wochen</h1>
-     =
+     ~
      <h3>{ageInMonths} Monate</h3>
      <p>10.06.2021 🚀</p>
     </div>
